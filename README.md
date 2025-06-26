@@ -135,8 +135,8 @@ Este proyecto está bajo la licencia MIT.
 
 ## ✏️ Autor
 
-Esteban Valencia Caicedo  
-Universidad de los Andes
+Esteban Valencia Caicedo
+Universidad escuela colombiana de ingeniería Julio Garavito
 
 ---
 
